@@ -1,4 +1,4 @@
-# Trading_Platform
+### Trading_Platform
 This platform is just a prototype and many strategies will be added soon! 👍
 
 DO NOT USE IT FOR TRADING AS IT IS.
